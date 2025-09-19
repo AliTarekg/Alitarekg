@@ -9,7 +9,7 @@
 <!-- Contact -->
 <p align="center">
   📱 (+20)1124163912 • 📧 <a href="mailto:alirekg@gmail.com">alirekg@gmail.com</a> •  
-  🔗 <a href="https://www.linkedin.com/in/alitarekg/">LinkedIn</a> • 🌐 <a href="https://alitarekg.github.io/portofolio/">Portfolio</a> • 💻 <a href="https://github.com/AliTarekg">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/alitarekg/">LinkedIn</a> • 🌐 <a href="https://alitarekg.github.io/portofolio/" target = "_blank">Portfolio</a> • 💻 <a href="https://github.com/AliTarekg">GitHub</a>
 </p>
 
 ---

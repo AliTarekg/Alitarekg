@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Summary
 
-Mid-Level **Fullstack Software Engineer** with **4+ years of professional experience** designing, developing, and deploying **scalable enterprise systems**.  
+ **Fullstack Software Engineer** with **4+ years of professional experience** designing, developing, and deploying **scalable enterprise systems**.  
 Specialized in **MERN, Next.js, TypeScript, and DevOps** with proven success in **ERP, CRM, LMS, Inventory, and Payroll systems**.  
 Skilled in **cloud deployment (AWS, GCP)**, **secure coding**, and **system optimization**.  
 Recognized for delivering **production-grade applications** that enhance **business efficiency and user experience**.

@@ -4,14 +4,48 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-alirekg%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alirekg@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tarekali192%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarekali192@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alitarekg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alitarekg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-equlify.store-00C2FF?style=flat&logo=googlechrome&logoColor=white)](https://equlify.store/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ATG%20Studio-00C2FF?style=flat&logo=vercel&logoColor=white)](https://atg-red.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-AliTarekg-181717?style=flat&logo=github&logoColor=white)](https://github.com/AliTarekg)
 
 📍 Cairo, Egypt · 🌐 Arabic & English · 💼 Open to senior full-stack & technical-lead roles
 
 </div>
+
+---
+
+## 📬 Contact
+
+I'm always happy to talk about **enterprise systems, payroll and HR platforms, integrations, or technical leadership**. The best way to reach me is email.
+
+| | |
+|---|---|
+| 📧 **Email** | [tarekali192@gmail.com](mailto:tarekali192@gmail.com) |
+| 🌐 **Portfolio / Studio** | [ATG - Software Engineering Studio](https://atg-red.vercel.app/) |
+| 🔗 **LinkedIn** | [linkedin.com/in/alitarekg](https://www.linkedin.com/in/alitarekg/) |
+| 💻 **GitHub** | [github.com/AliTarekg](https://github.com/AliTarekg) |
+
+<div align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Waving" />
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,laravel,cpp,cs,html,css,bootstrap,mongodb,mysql,postgres,firebase,aws,gcp,git,github,ubuntu&theme=dark" alt="Tech stack icons" />
+</p>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python, PHP, C++, C#, HTML, CSS |
+| **Frameworks** | MERN, Next.js, Node.js / Express, Laravel, Django, Bootstrap |
+| **Databases** | Oracle, SQL Server, PostgreSQL, MySQL, MongoDB |
+| **Cloud & DevOps** | AWS, Google Cloud, Heroku, Firebase, CI/CD, Ubuntu, Windows Server |
+| **AI & Data** | TensorFlow, scikit-learn, AI agent integration, workflow automation |
+| **Practices** | REST API design, secure coding, identity management, Agile/Scrum, Git |
 
 ---
 
@@ -54,6 +88,40 @@ Currently **technical lead and product owner** on a multi-tenant SaaS payroll pl
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌍 Live Products
+
+| Project | What it does | Stack | Highlights |
+|---|---|---|---|
+| **[InnerAI](https://anatomy-eight-drab.vercel.app)** (2026) | Explore the human body in 3D and ask an AI to explain what you're looking at | Next.js, React, WebGL, Tailwind, LLM | 3D anatomy · AI explanations · EN/AR with RTL |
+| **[Hapipy](https://hapipy.com)** (2026) | A private, password-protected space for two: love letters, memories and milestones | React, Firebase Auth, Firestore, PWA | Real-time shared timeline · installable PWA |
+| **[TalentTrack](https://talenttrackedu.com)** (2021) | Training portal with CRM, course delivery, payments and progress tracking | React, Node.js, MongoDB, CRM APIs | 10K+ learners · +40% course completion · 70% admin automated |
+| **[Commercial Lighting Orlando](https://www.commerciallightingorlando.com/)** (2025) | CRM-driven lead capture, scheduling and customer records for an electrical services company | Next.js, React, Node.js, REST, CRM, SEO | Server-rendered for local SEO · lead-to-job pipeline · mobile-first |
+| **[Ahmed-Hub Store](https://ahm-designs.web.app/)** (2024) | Serverless storefront with a real-time catalogue and checkout | React, Firebase, Firestore, Hosting | Real-time catalogue sync · zero-ops infrastructure |
+| **[Gatexam](https://gatexam.org)** (2023) | Online examination platform with AI proctoring and auto-grading | React, Node.js, Express, MySQL, WebSockets, TensorFlow | 5K+ concurrent students · 85% less grading time · real-time AI proctoring |
+
+### 🏢 Enterprise & Client Work
+
+Built for clients and internal deployments, so these are not publicly linked.
+
+| Project | What it does | Stack | Highlights |
+|---|---|---|---|
+| **American Academy ERP** (2022–2025) | HR, finance, operations and attendance unified in one system | Next.js, TypeScript, Node.js, Oracle, Redis, Docker | 8 departments unified · 99.5% uptime · 60% faster processing |
+| **American Academy LMS** (2022–2024) | Live classes, assessments and student portals at academy scale | MongoDB, Express, React, Node.js, Moodle | Live class streaming · auto assessment scoring · per-student analytics |
+| **Inventory & Procurement** (2023) | Stock, suppliers, procurement and finance in a single ledger | Node.js, Express, SQL Server, React | Real-time stock tracking · full audit trail |
+| **Payroll & HR Automation** (2023) | Payroll, leave and HR records on secure on-premise servers | MongoDB, Express, React, Node.js, Windows Server | Zero-touch monthly payroll · full leave workflow |
+| **Corporate Academy Portals** (2022–2024) | Branded corporate portals wired into ERP and Moodle backends | Next.js, Node.js, SSO, Moodle, REST | Single sign-on across three backends · per-client dashboards |
+| **Multi-tenant SaaS Payroll Platform** (2025–Present) | Automated payroll with Oracle HCM as the source of truth. I lead architecture and delivery as technical lead | Laravel, Node.js, Oracle HCM | Multi-tenant · HCM integration · product ownership |
+
+### 📦 Archived
+
+| Project | What it was | Stack |
+|---|---|---|
+| **Gom3a Commerce** (2020) | High-performance WooCommerce storefront, speed-tuned end to end | WooCommerce, PHP, MySQL |
+
+---
+
 ## 🗺️ Career Timeline
 
 ```mermaid
@@ -67,39 +135,6 @@ gantt
     Software Engineer, American Academy (ERP, LMS, Payroll) :2023-12, 2025-05
     Fullstack Engineer, Crystal Consulting (ERP, CRM, Payroll SaaS) :active, 2025-05, 2026-10
 ```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Summary | Stack |
-|---|---|---|
-| **[Gatexam.org](https://gatexam.org/)** | Online exam system serving thousands of users | MERN, MySQL |
-| **[TalentTrackedu.com](https://talenttrackedu.com/)** | Training portal with CRM-integrated dashboards | Web, CRM integration |
-| **[LMS](https://lms.americanacademyeg.com/)** | Online classes and exam platform | Web platform |
-| **[Inventory System](https://inventory.americanacademyeg.com/)** | Stock, suppliers and finance management | Web, reporting |
-| **[Americanacademyeg.com](https://americanacademyeg.com/)** | ERP and Moodle-integrated institutional portals | ERP, Moodle |
-| **[Eduvisioneg.com](https://eduvisioneg.com/)** | E-learning portal for course management | E-learning |
-| **[Gom3a.com](https://gom3a.com/)** | WooCommerce e-commerce store | WooCommerce, WordPress |
-| **Multi-tenant SaaS Payroll Platform** | Automated payroll with Oracle HCM as source of truth | Laravel, Node.js, Oracle HCM |
-| **Payroll System (on-prem)** | Automated HR & payroll with secure on-premises deployment | Enterprise, on-prem |
-
----
-
-## 🛠️ Technical Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,laravel,cpp,cs,html,css,bootstrap,mongodb,mysql,postgres,firebase,aws,gcp,git,github,ubuntu&theme=dark" alt="Tech stack icons" />
-</p>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript, TypeScript, Python, PHP, C++, C#, HTML, CSS |
-| **Frameworks** | MERN, Next.js, Node.js / Express, Laravel, Django, Bootstrap |
-| **Databases** | Oracle, SQL Server, PostgreSQL, MySQL, MongoDB |
-| **Cloud & DevOps** | AWS, Google Cloud, Heroku, Firebase, CI/CD, Ubuntu, Windows Server |
-| **AI & Data** | TensorFlow, scikit-learn, AI agent integration, workflow automation |
-| **Practices** | REST API design, secure coding, identity management, Agile/Scrum, Git |
 
 ---
 
@@ -137,15 +172,3 @@ gantt
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliTarekg&theme=react-dark" alt="Activity graph" />
 </p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always happy to talk about **enterprise systems, payroll and HR platforms, integrations, or technical leadership**. The best way to reach me is email.
-
-📧 [alirekg@gmail.com](mailto:alirekg@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/alitarekg/) · 🌐 [Portfolio](https://equlify.store/)
-
-<div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Waving" />
-</div>

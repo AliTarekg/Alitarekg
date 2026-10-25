@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ali+Tarek+👋;Fullstack+Software+Engineer;ERP+%7C+Payroll+%7C+LMS+%7C+Integrations;Building+production-grade+systems+since+2019" alt="Typing intro" />
+# Hi, I'm Ali Tarek 👋
 
-<br/>
+**Fullstack Software Engineer** · ERP · Payroll · LMS · Integrations
 
 [![Email](https://img.shields.io/badge/Email-tarekali192%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarekali192@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alitarekg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alitarekg/)
@@ -11,23 +11,6 @@
 
 📍 Cairo, Egypt · 🌐 Arabic & English · 💼 Open to senior full-stack & technical-lead roles
 
-</div>
-
----
-
-## 📬 Contact
-
-I'm always happy to talk about **enterprise systems, payroll and HR platforms, integrations, or technical leadership**. The best way to reach me is email.
-
-| | |
-|---|---|
-| 📧 **Email** | [tarekali192@gmail.com](mailto:tarekali192@gmail.com) |
-| 🌐 **Portfolio / Studio** | [ATG - Software Engineering Studio](https://atg-red.vercel.app/) |
-| 🔗 **LinkedIn** | [linkedin.com/in/alitarekg](https://www.linkedin.com/in/alitarekg/) |
-| 💻 **GitHub** | [github.com/AliTarekg](https://github.com/AliTarekg) |
-
-<div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Waving" />
 </div>
 
 ---
